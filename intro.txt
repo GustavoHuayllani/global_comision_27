@@ -1,0 +1,6 @@
+bienvenidos a mi repositorio
+
+
+git init 
+
+git remote add origin.
